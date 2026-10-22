@@ -22,13 +22,65 @@ $ cat now.txt
 
 ### shipped
 
-| | project | what it is |
-|:-:|---|---|
-| 💌 | [**Manas & Anchal**](https://invitations-xi.vercel.app) · [code](https://github.com/baerozgaarmard/manas-anchal-wedding-invitation) | Interactive, illustrated wedding invitation, made for phones |
-| 🧠 | [**Wellness Companion AI**](https://ai-agent-final-reet.onrender.com) · [code](https://github.com/baerozgaarmard/Ai-Agent-Final) | AI coach with memory, learning and safety-first crisis detection. LLM-optional, local-first |
-| 🏠 | [**EstateFlow CRM**](https://demo-crm-nu.vercel.app) · [code](https://github.com/baerozgaarmard/demo-crm) | Mobile-first real-estate CRM: leads, one-tap calls, follow-ups, teams |
-| ✂️ | [**Afreen Unisex Salon**](https://salon-demo-website-ten.vercel.app) · [code](https://github.com/baerozgaarmard/Salon-Demo-website) | Fast, accessible landing page for a Dehradun salon |
-| 🩺 | [**Skin clinic site**](https://demo-websites-umber.vercel.app) · [code](https://github.com/baerozgaarmard/demo-websites) | Mobile-first site for a dermatology clinic |
+<table>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://brandforge-media.vercel.app"><img src="assets/brandforge.jpg" width="100%" alt="BrandForge Media studio site: We forge brands that move" /></a>
+      <br />
+      <b><a href="https://brandforge-media.vercel.app">BrandForge Media</a></b> · <a href="https://github.com/baerozgaarmard/brandforge-media">code</a>
+      <br />
+      <sub>Our studio site: real-time 3D, scroll-driven motion and 33 search-ready pages · Vite · Three.js · GSAP</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://invitations-xi.vercel.app"><img src="assets/wedding.jpg" width="100%" alt="Manas and Anchal wedding invitation: a sealed envelope" /></a>
+      <br />
+      <b><a href="https://invitations-xi.vercel.app">Manas &amp; Anchal</a></b> · <a href="https://github.com/baerozgaarmard/manas-anchal-wedding-invitation">code</a>
+      <br />
+      <sub>Interactive, illustrated wedding invitation, made for phones · React · Framer Motion</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://platinum-corp-demo.vercel.app"><img src="assets/platinum.jpg" width="100%" alt="Platinum Crest luxury residences landing page" /></a>
+      <br />
+      <b><a href="https://platinum-corp-demo.vercel.app">Platinum Crest</a></b> · <a href="https://github.com/baerozgaarmard/platinum-corp-demo">code</a>
+      <br />
+      <sub>Luxury real-estate landing page for a Mumbai tower · React · Tailwind · Gemini API</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://ai-agent-final-reet.onrender.com"><img src="assets/wellness.jpg" width="100%" alt="Wellness Companion AI sign-in screen" /></a>
+      <br />
+      <b><a href="https://ai-agent-final-reet.onrender.com">Wellness Companion AI</a></b> · <a href="https://github.com/baerozgaarmard/Ai-Agent-Final">code</a>
+      <br />
+      <sub>AI coach with memory and safety-first crisis detection · FastAPI · Groq</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://demo-crm-nu.vercel.app"><img src="assets/crm.jpg" width="100%" alt="EstateFlow CRM sign-in screen" /></a>
+      <br />
+      <b><a href="https://demo-crm-nu.vercel.app">EstateFlow CRM</a></b> · <a href="https://github.com/baerozgaarmard/demo-crm">code</a>
+      <br />
+      <sub>Mobile-first real-estate CRM: leads, one-tap calls, follow-ups · React · Zustand</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://salon-demo-website-ten.vercel.app"><img src="assets/salon.jpg" width="100%" alt="Afreen Unisex Salon landing page" /></a>
+      <br />
+      <b><a href="https://salon-demo-website-ten.vercel.app">Afreen Unisex Salon</a></b> · <a href="https://github.com/baerozgaarmard/Salon-Demo-website">code</a>
+      <br />
+      <sub>Fast, accessible landing page for a Dehradun salon · HTML · JSON-LD</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://demo-websites-umber.vercel.app"><img src="assets/skin.jpg" width="100%" alt="Skin clinic landing page" /></a>
+      <br />
+      <b><a href="https://demo-websites-umber.vercel.app">Skin clinic site</a></b> · <a href="https://github.com/baerozgaarmard/demo-websites">code</a>
+      <br />
+      <sub>Mobile-first site for a Dehradun dermatology clinic · HTML</sub>
+    </td>
+  </tr>
+</table>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/baerozgaarmard/baerozgaarmard/output/snake-dark.svg" />
@@ -36,6 +88,11 @@ $ cat now.txt
 </picture>
 
 <div align="center">
+
+<a href="https://www.instagram.com/baerozgaarmard"><img src="https://img.shields.io/badge/Instagram-baerozgaarmard-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://www.linkedin.com/in/brandforge-media"><img src="https://img.shields.io/badge/LinkedIn-BrandForge%20Media-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik00Ljk4IDMuNWEyLjUgMi41IDAgMSAxIDAgNSAyLjUgMi41IDAgMCAxIDAtNXpNMyA5Ljc1aDR2MTFIM3ptNyAwaDMuOHYxLjZoLjA2Yy41My0xIDEuODMtMi4wNiAzLjc3LTIuMDYgNC4wMyAwIDQuNzcgMi42NSA0Ljc3IDYuMXY1LjM2aC00di00Ljc1YzAtMS4xMy0uMDItMi41OS0xLjU4LTIuNTktMS41OCAwLTEuODIgMS4yMy0xLjgyIDIuNXY0Ljg0aC00eiIvPjwvc3ZnPg==" alt="LinkedIn" /></a>
+<a href="https://x.com/baerozgaarmard"><img src="https://img.shields.io/badge/X-baerozgaarmard-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+<img src="https://img.shields.io/badge/Discord-ayush287904-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: ayush287904" />
 
 **[brandforge-media.vercel.app](https://brandforge-media.vercel.app)** — the studio I build for
 
