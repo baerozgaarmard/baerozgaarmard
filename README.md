@@ -30,6 +30,11 @@ $ cat now.txt
 | ✂️ | [**Afreen Unisex Salon**](https://salon-demo-website-ten.vercel.app) · [code](https://github.com/baerozgaarmard/Salon-Demo-website) | Fast, accessible landing page for a Dehradun salon |
 | 🩺 | [**Skin clinic site**](https://demo-websites-umber.vercel.app) · [code](https://github.com/baerozgaarmard/demo-websites) | Mobile-first site for a dermatology clinic |
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/baerozgaarmard/baerozgaarmard/output/snake-dark.svg" />
+  <img alt="A snake eating my contribution graph" src="https://raw.githubusercontent.com/baerozgaarmard/baerozgaarmard/output/snake.svg" />
+</picture>
+
 <div align="center">
 
 **[brandforge-media.vercel.app](https://brandforge-media.vercel.app)** — the studio I build for
