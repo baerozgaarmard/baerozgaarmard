@@ -45,7 +45,7 @@ $ cat now.txt
       <br />
       <b><a href="https://platinum-corp-demo.vercel.app">Platinum Crest</a></b> · <a href="https://github.com/baerozgaarmard/platinum-corp-demo">code</a>
       <br />
-      <sub>Luxury real-estate landing page for a Mumbai tower · React · Tailwind · Gemini API</sub>
+      <sub>Luxury real-estate landing page for a Mumbai tower · React · Tailwind · Google Maps</sub>
     </td>
   </tr>
   <tr>
