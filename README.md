@@ -11,7 +11,7 @@ $ whoami
 ayush bhatt · full-stack dev @ brandforge media · dehradun, in
 
 $ cat now.txt
-→ the BrandForge Media studio site: real-time 3D + scroll-driven motion (Vite · Three.js · GSAP)
+→ the BrandForge Media site: real-time 3D with Three.js + GSAP
 → OnlyRandoms: an Android app on a Firebase backend
 → local-first AI agents: a wellness coach with memory and crisis detection
 ```
