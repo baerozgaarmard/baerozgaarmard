@@ -16,6 +16,14 @@ $ cat now.txt
 → local-first AI agents: a wellness coach with memory and crisis detection
 ```
 
+
+### what I do
+
+- **Business websites** that load fast and bring enquiries — landing pages, portfolios, local-business sites with SEO built in
+- **Web apps & SaaS** — CRMs, dashboards, e-commerce and internal tools (React · Next.js · NestJS)
+- **Android apps** — Kotlin + Firebase, from prototype to release builds
+- **AI agents & automation** — local-first agents with memory, plus WhatsApp/lead automation for small businesses
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,python,kotlin,firebase,threejs,vite,tailwind,html,css,docker,postgres,vercel,git&perline=9" alt="TypeScript, JavaScript, React, Next.js, Node.js, NestJS, Python, Kotlin, Firebase, Three.js, Vite, Tailwind, HTML, CSS, Docker, Postgres, Vercel, Git" />
 </div>
@@ -81,6 +89,21 @@ $ cat now.txt
     </td>
   </tr>
 </table>
+
+
+### work with me
+
+I build for clients through **[BrandForge Media](https://brandforge-media.vercel.app)** and I'm currently taking on new projects.
+
+- Fixed scope, fixed price, live in days — no endless revisions loop
+- Every build ships with a live demo link before final delivery
+- Best way to reach me: **[WhatsApp](https://wa.me/919311267085)** or through the studio site
+
+> A large part of my client work lives in private repositories (client code and NDAs), so the public repos here are a selection. The full portfolio is available on request.
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=baerozgaarmard&show_icons=true&theme=radical&hide_border=true" alt="Ayush Bhatt's GitHub stats" />
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/baerozgaarmard/baerozgaarmard/output/snake-dark.svg" />
