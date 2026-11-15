@@ -11,9 +11,9 @@ $ whoami
 ayush bhatt · full-stack dev @ brandforge media · dehradun, in
 
 $ cat now.txt
+→ Tube Trek: autonomous agent-native YouTube Shorts studio
+→ AI Bot City Simulator: living isometric town with autonomous agents
 → the BrandForge Media site: real-time 3D with Three.js + GSAP
-→ OnlyRandoms: an Android app on a Firebase backend
-→ local-first AI agents: a wellness coach with memory and crisis detection
 ```
 
 
@@ -102,18 +102,23 @@ I build for clients through **[BrandForge Media](https://brandforge-media.vercel
 > A large part of my client work lives in private repositories (client code and NDAs), so the public repos here are a selection. The full portfolio is available on request.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=baerozgaarmard&show_icons=true&theme=radical&hide_border=true" alt="Ayush Bhatt's GitHub stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=baerozgaarmard&show_icons=true&theme=radical&hide_border=true" alt="Ayush Bhatt's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=baerozgaarmard&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
+<br />
+
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/baerozgaarmard/baerozgaarmard/output/snake-dark.svg" />
   <img alt="A snake eating my contribution graph" src="https://raw.githubusercontent.com/baerozgaarmard/baerozgaarmard/output/snake.svg" />
 </picture>
+</div>
 
 <div align="center">
 
 <a href="https://www.instagram.com/baerozgaarmard"><img src="https://img.shields.io/badge/Instagram-baerozgaarmard-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<a href="https://www.linkedin.com/in/brandforge-media"><img src="https://img.shields.io/badge/LinkedIn-BrandForge%20Media-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik00Ljk4IDMuNWEyLjUgMi41IDAgMSAxIDAgNSAyLjUgMi41IDAgMCAxIDAtNXpNMyA5Ljc1aDR2MTFIM3ptNyAwaDMuOHYxLjZoLjA2Yy41My0xIDEuODMtMi4wNiAzLjc3LTIuMDYgNC4wMyAwIDQuNzcgMi42NSA0Ljc3IDYuMXY1LjM2aC00di00Ljc1YzAtMS4xMy0uMDItMi41OS0xLjU4LTIuNTktMS41OCAwLTEuODIgMS4yMy0xLjgyIDIuNXY0Ljg0aC00eiIvPjwvc3ZnPg==" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/brandforge-media"><img src="https://img.shields.io/badge/LinkedIn-BrandForge%20Media-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://x.com/baerozgaarmard"><img src="https://img.shields.io/badge/X-baerozgaarmard-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 <img src="https://img.shields.io/badge/Discord-ayush287904-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: ayush287904" />
 
