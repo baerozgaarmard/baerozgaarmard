@@ -30,7 +30,18 @@ Locate and verify user's private GitHub List "Ayush Animation Library" and manag
   - `baerozgaarmard/OnlyRandoms-Prototype` (Archived)
   - `baerozgaarmard/dental-implants-australia-concept` (Archived)
   - `baerozgaarmard/reel-harbor` (Archived)
-- Cleaned dead code link to private `demo-websites` in `README.md`.
+- Permanently deleted 6 repositories per user instruction:
+  - `baerozgaarmard/demo-websites` (0 contribution days lost)
+  - `baerozgaarmard/just-one-more-thing`
+  - `baerozgaarmard/brandforge-voice-agent-demo`
+  - `baerozgaarmard/sukoon-interiors` (1 day lost: 2026-06-29)
+  - `baerozgaarmard/reel-harbor` (1 day lost: 2026-09-13)
+  - `baerozgaarmard/menuqr` (1 day lost: 2026-08-30)
+- Kept and preserved high-contribution repositories:
+  - `baerozgaarmard/OnlyRandoms-Prototype` (preserves 6 green squares, 39 commits)
+  - `baerozgaarmard/Ai-Agent-Final` (preserves 4 green squares, 16 commits)
+  - `baerozgaarmard/SAAS-1-Lead-cold-texter` (preserves 2 green squares, 6 commits)
+- Total remaining repositories: 21.
 
 ## Next Steps
 - Continue managing repository hygiene and profile presentation.
