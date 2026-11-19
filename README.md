@@ -83,7 +83,7 @@ $ cat now.txt
     <td width="50%" valign="top">
       <a href="https://demo-websites-umber.vercel.app"><img src="assets/skin.jpg" width="100%" alt="Skin clinic landing page" /></a>
       <br />
-      <b><a href="https://demo-websites-umber.vercel.app">Skin clinic site</a></b> · <a href="https://github.com/baerozgaarmard/demo-websites">code</a>
+      <b><a href="https://demo-websites-umber.vercel.app">Skin clinic site</a></b>
       <br />
       <sub>Mobile-first site for a Dehradun dermatology clinic · HTML</sub>
     </td>

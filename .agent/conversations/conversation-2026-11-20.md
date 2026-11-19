@@ -16,10 +16,21 @@ Locate and verify user's private GitHub List "Ayush Animation Library" and manag
   - `baerozgaarmard/ai-payment-box`
   - `baerozgaarmard/Claude-cloud`
   - `baerozgaarmard/Wellness-agent-Final`
-- Successfully archived 3 private prototype repositories to preserve all 52 contributions/commits on profile:
+- Updated 9 repositories to Private and Archived (preserving commit history & green squares):
+  - `baerozgaarmard/content-master` (Private, Archived)
+  - `baerozgaarmard/brandforge-voice-agent-demo` (Private, Archived)
+  - `baerozgaarmard/just-one-more-thing` (Private, Archived)
+  - `baerozgaarmard/wellness-companion` (Private, Archived)
+  - `baerozgaarmard/demo-websites` (Private, Archived)
+  - `baerozgaarmard/SAAS-1-Lead-cold-texter` (Private, Archived)
+  - `baerozgaarmard/menuqr` (Private, Archived)
+  - `baerozgaarmard/personal-os` (Private, Archived)
+  - `baerozgaarmard/sukoon-interiors` (Private, Archived)
+- Previously archived 3 private prototypes:
   - `baerozgaarmard/OnlyRandoms-Prototype` (Archived)
   - `baerozgaarmard/dental-implants-australia-concept` (Archived)
   - `baerozgaarmard/reel-harbor` (Archived)
+- Cleaned dead code link to private `demo-websites` in `README.md`.
 
 ## Next Steps
 - Continue managing repository hygiene and profile presentation.
