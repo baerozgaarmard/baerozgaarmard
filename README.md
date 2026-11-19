@@ -11,9 +11,10 @@ $ whoami
 ayush bhatt · full-stack dev @ brandforge media · dehradun, in
 
 $ cat now.txt
-→ Tube Trek: autonomous agent-native YouTube Shorts studio
+→ Animated Shorts Skill: autonomous 3D toon studio with Remotion & Three.js
+→ Tube Trek: agent-native YouTube Shorts studio with zero API keys
 → AI Bot City Simulator: living isometric town with autonomous agents
-→ the BrandForge Media site: real-time 3D with Three.js + GSAP
+→ the BrandForge Media studio site: real-time 3D with Three.js + GSAP
 ```
 
 
@@ -81,11 +82,11 @@ $ cat now.txt
       <sub>Fast, accessible landing page for a Dehradun salon · HTML · JSON-LD</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://demo-websites-umber.vercel.app"><img src="assets/skin.jpg" width="100%" alt="Skin clinic landing page" /></a>
+      <a href="https://github.com/baerozgaarmard/animated-shorts-skill"><img src="assets/animated-shorts.jpg" width="100%" alt="Animated Shorts 3D Toon Studio frame" /></a>
       <br />
-      <b><a href="https://demo-websites-umber.vercel.app">Skin clinic site</a></b>
+      <b><a href="https://github.com/baerozgaarmard/animated-shorts-skill">Animated Shorts Studio</a></b> · <a href="https://github.com/baerozgaarmard/animated-shorts-skill">code</a>
       <br />
-      <sub>Mobile-first site for a Dehradun dermatology clinic · HTML</sub>
+      <sub>Autonomous 3D toon storytelling pipeline · Three.js · Remotion · Python DSP</sub>
     </td>
   </tr>
 </table>
