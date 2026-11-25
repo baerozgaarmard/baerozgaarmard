@@ -27,3 +27,8 @@ Redesign `baerozgaarmard/README.md` by selecting and combining design patterns f
 - Restored `assets/brandforge.jpg` from commit `8dd70f1` and promoted **BrandForge Media Website** (`https://brandforge-media.vercel.app`) as the hero **Pinned Work** build while preserving Ayush Bhatt's individual identity across header, bio, and contact badges.
 - Replaced **Platinum Crest**, **Wellness Companion AI**, and **EstateFlow CRM** in Featured Builds with **Enterprise RAG — Chiller Manuals**, **Document Intelligence OCR**, **Autonomous LFQ Pricing Agent**, and **Stela (Apple Silicon on x86-64)** alongside **Animated Shorts Studio** and **Manas & Anchal**.
 - Deleted unused `assets/platinum.jpg`, `assets/wellness.jpg`, and `assets/crm.jpg`.
+
+## Profile Sidebar Update (GitHub API)
+- Updated `bio` via `PATCH /user` to `"Creative engineer & full-stack developer building autonomous AI agents, 3D WebGL worlds & crisp web apps."`
+- Cleared `company` (`null`) and `blog` (`""`) to remove `BrandForge Media` and `https://brandforge-media.vercel.app/` from the profile sidebar.
+- Removed `https://www.linkedin.com/in/brandforge-media` via `DELETE /user/social_accounts`, keeping Instagram (`baerozgaarmard`) and X (`@baerozgaarmard`).
