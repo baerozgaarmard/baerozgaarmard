@@ -44,3 +44,7 @@ Redesign `baerozgaarmard/README.md` by selecting and combining design patterns f
   - Shipped and merged PR `#1` (`docs/add-mit-license` -> `main`) adding the root MIT `LICENSE` file.
   - Opened issue `#2` (`2026-11-25T08:39:35Z`) and resolved/closed it via PR `#3` (`2026-11-25T08:40:10Z` — 35 seconds) linking `[MIT License](LICENSE)` in `README.md`.
 - Note: GitHub achievement badges process asynchronously on GitHub's backend (immediately post-merge the profile page still listed `YOLO` only).
+
+## Highlights & Achievements Verified
+- Confirmed **Developer Program Member** badge is live under **Highlights** on `https://github.com/baerozgaarmard`.
+- Confirmed **Quickdraw** and **YOLO** badges are live under **Achievements** (**Pull Shark** requirements met with 4 merged PRs across 3 public repos; awaiting GitHub background batch sync).
