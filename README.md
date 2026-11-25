@@ -34,7 +34,7 @@
   <tr><td>DSP &amp; Video Gen</td><td><code>★★★★☆</code></td></tr>
 </table>
 
-### `whoami`
+### 👋 About
 
 Hi, I'm **Ayush Bhatt** (`@baerozgaarmard`) — an independent **creative engineer and full-stack developer** based in Dehradun, India. I build autonomous AI agent pipelines, procedural 3D graphics, and crisp web applications from zero to production.
 
@@ -42,11 +42,8 @@ Hi, I'm **Ayush Bhatt** (`@baerozgaarmard`) — an independent **creative engine
 $ whoami
 ayush bhatt · independent creative engineer · dehradun, uttarakhand, in
 
-$ cat now.txt
-→ ultimate-faceless-shorts-pipeline : code-native video studio with local TTS & Whisper
-→ animated-shorts-skill             : 3D toon storytelling via Three.js + Remotion + DSP
-→ tube-trek                         : agent-native YouTube Shorts studio (zero API keys)
-→ ai-bot-city-simulator             : living isometric town driven by autonomous agents
+$ focus --current
+autonomous ai agents · deterministic 3d/2d video engines · webgl & full-stack apps
 ```
 
 <br clear="both" />
@@ -83,15 +80,8 @@ $ cat now.txt
   <a href="https://github.com/baerozgaarmard/ultimate-faceless-shorts-pipeline">
     <img width="48%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=baerozgaarmard&repo=ultimate-faceless-shorts-pipeline&theme=radical&hide_border=true" alt="ultimate-faceless-shorts-pipeline" />
   </a>
-  <a href="https://github.com/baerozgaarmard/animated-shorts-skill">
-    <img width="48%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=baerozgaarmard&repo=animated-shorts-skill&theme=radical&hide_border=true" alt="animated-shorts-skill" />
-  </a>
-  <br />
   <a href="https://github.com/baerozgaarmard/tube-trek">
     <img width="48%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=baerozgaarmard&repo=tube-trek&theme=radical&hide_border=true" alt="tube-trek" />
-  </a>
-  <a href="https://github.com/baerozgaarmard/ai-bot-city-simulator">
-    <img width="48%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=baerozgaarmard&repo=ai-bot-city-simulator&theme=radical&hide_border=true" alt="ai-bot-city-simulator" />
   </a>
 </div>
 
@@ -119,26 +109,26 @@ $ cat now.txt
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <b><a href="https://github.com/baerozgaarmard/ai-bot-city-simulator">AI Bot City Simulator</a></b> · <a href="https://github.com/baerozgaarmard/ai-bot-city-simulator">code</a>
+      <br />
+      <sub>Frontend-only living isometric town with 24 autonomous agents, persistent memories, A* pathfinding, and real simulation engine · Phaser 3 · React · Dexie</sub>
+    </td>
+    <td width="50%" valign="top">
       <b><a href="https://github.com/baerozgaarmard/enterprise-rag-chiller-manuals">Enterprise RAG — Chiller Manuals</a></b> · <a href="https://github.com/baerozgaarmard/enterprise-rag-chiller-manuals">code</a>
       <br />
       <sub>Grounded technical Q&amp;A over industrial chiller manuals with document, page, and chunk-level citations plus insufficient-evidence refusal · Python · RAG</sub>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <b><a href="https://github.com/baerozgaarmard/document-intelligence-ocr-pipeline">Document Intelligence OCR</a></b> · <a href="https://github.com/baerozgaarmard/document-intelligence-ocr-pipeline">code</a>
       <br />
       <sub>Hybrid PyMuPDF &amp; OCR pipeline preserving layout, headings, tables, and normalized bounding boxes in versioned JSON · Python · OCR</sub>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <b><a href="https://github.com/baerozgaarmard/autonomous-lfq-pricing-agent">Autonomous LFQ Pricing Agent</a></b> · <a href="https://github.com/baerozgaarmard/autonomous-lfq-pricing-agent">code</a>
       <br />
       <sub>Explainable pricing-research agent evaluating catalog cost baselines, competitor signals, and policy constraints with human-in-the-loop approval · Python · Agents</sub>
-    </td>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/baerozgaarmard/Stela-Mac-Os">Stela (Apple Silicon on x86-64)</a></b> · <a href="https://github.com/baerozgaarmard/Stela-Mac-Os">code</a>
-      <br />
-      <sub>Experimental UEFI translation layer with an arm64-to-x86-64 translator and NVIDIA GPU Metal driver work · Rust</sub>
     </td>
   </tr>
 </table>
@@ -150,6 +140,7 @@ $ cat now.txt
 
 | Project | Focus | Link |
 | :--- | :--- | :--- |
+| **Stela (Apple Silicon on x86-64)** | Experimental UEFI translation layer with arm64-to-x86-64 translator and Metal driver work | [Repo](https://github.com/baerozgaarmard/Stela-Mac-Os) |
 | **BrandForge POS** | Offline-first restaurant POS and order management system | [Repo](https://github.com/baerozgaarmard/brandforge-pos) |
 | **Afreen Unisex Salon** | Accessible fast local-business landing page | [Repo](https://github.com/baerozgaarmard/Salon-Demo-website) |
 
@@ -168,27 +159,19 @@ $ cat now.txt
 
 ---
 
-### 📊 Engineering Telemetry & Contribution Snake
+### 📊 Engineering Telemetry
 
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=baerozgaarmard&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Ayush Bhatt's GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=baerozgaarmard&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<br />
-
-<div align="center">
+  <br />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=baerozgaarmard&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
-
-<br />
 
 <!-- Activity Graph (inspired by zumrudu-anka) -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=baerozgaarmard&bg_color=141321&color=e5383b&line=fe428e&point=a9fef7&area=true&hide_border=true" width="100%" alt="GitHub Contribution Activity Graph" />
 </div>
-
-<br />
 
 <!-- Dark/light contribution snake (inspired by salesp07) -->
 <div align="center">
@@ -197,8 +180,6 @@ $ cat now.txt
     <img alt="A snake eating my contribution graph" src="https://raw.githubusercontent.com/baerozgaarmard/baerozgaarmard/output/snake.svg" />
   </picture>
 </div>
-
-<br />
 
 <!-- Random Dev Quote (inspired by iampavangandhi) -->
 <div align="center">

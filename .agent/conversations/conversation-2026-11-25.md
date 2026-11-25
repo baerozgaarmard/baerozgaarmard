@@ -53,3 +53,9 @@ Redesign `baerozgaarmard/README.md` by selecting and combining design patterns f
 ## Launch Polish on `ultimate-faceless-shorts-pipeline` (PR #1)
 - Audited `baerozgaarmard/ultimate-faceless-shorts-pipeline`: found broken `LICENSE` link (`licenseInfo: null`), empty badge hrefs, and style previews buried below line 100.
 - Shipped PR `#1` (`docs/launch-polish-and-license` -> `main`): added root MIT `LICENSE`, fixed badge markup and `Δt = 1/60 s`, and added an above-the-fold 3-style visual preview + 1-command Windows/Unix Quickstart at the top of `README.md`.
+
+## Full Profile & README Audit Fixes
+- Cleared dead HTTP 404 `homepage` on `Salon-Demo-website`.
+- Populated `autonomous-lfq-pricing-agent` description from `pyproject.toml` and added GitHub topics across `autonomous-lfq-pricing-agent`, `enterprise-rag-chiller-manuals`, `document-intelligence-ocr-pipeline`, `animated-shorts-skill`, `ai-bot-city-simulator`, `Stela-Mac-Os`, and `brandforge-pos`.
+- Shipped MIT `LICENSE` PRs on `autonomous-lfq-pricing-agent#1` and `ai-bot-city-simulator#1`.
+- Tightened `baerozgaarmard/README.md` via PR: removed duplicate `animated-shorts-skill` entry, removed redundant `cat now.txt` repo list, unified section headings, balanced the 2-column Featured Builds grid, and compacted telemetry spacing.
