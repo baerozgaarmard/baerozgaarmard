@@ -1,129 +1,217 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3d0000,100:e5383b&height=200&section=header&text=Ayush%20Bhatt&fontColor=ffffff&fontSize=56&fontAlignY=36&desc=sudo%20make%20it%20work&descAlignY=58&animation=fadeIn" width="100%" alt="Ayush Bhatt" />
+<!-- Header banner (inspired by mayhemantt & MartinHeinz) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3d0000,100:e5383b&height=210&section=header&text=Ayush%20Bhatt&fontColor=ffffff&fontSize=56&fontAlignY=35&desc=Creative%20Engineer%20%C2%B7%20AI%20Systems%20%C2%B7%20Full-Stack&descAlignY=57&animation=fadeIn" width="100%" alt="Ayush Bhatt" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=E5383B&center=true&vCenter=true&width=620&lines=Full-stack+dev+%40+BrandForge+Media;Websites%2C+Android+apps+%26+AI+agents;Shipping+from+Dehradun%2C+India" alt="Full-stack dev at BrandForge Media" />
+<!-- Animated typing subtitle (inspired by zumrudu-anka & salesp07) -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=E5383B&center=true&vCenter=true&width=680&lines=Creative+Engineer+%26+Full-Stack+Developer;Autonomous+AI+Agents+%26+Video+Pipelines;Three.js%2C+WebGL+%26+Interactive+3D+Worlds;Shipping+independent+software+from+Dehradun%2C+IN" alt="Ayush Bhatt - Creative Engineer" />
+</a>
+
+<br />
+
+<!-- Live GitHub meta-badges (inspired by milaan9 & Spiderpig86) -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=baerozgaarmard&label=Profile+Views&color=e5383b&style=for-the-badge" alt="Profile Views" />
+  <a href="https://github.com/baerozgaarmard?tab=followers"><img src="https://img.shields.io/github/followers/baerozgaarmard?label=Followers&color=1f2937&style=for-the-badge&logo=github" alt="Followers" /></a>
+  <a href="https://github.com/baerozgaarmard/baerozgaarmard"><img src="https://img.shields.io/github/last-commit/baerozgaarmard/baerozgaarmard?label=Updated&color=1f2937&style=for-the-badge&logo=git" alt="Last Updated" /></a>
+</p>
+
+<!-- Tagline motto (inspired by mayhemantt) -->
+<h5><i>⚡️ Fast prototypes, production-grade craft, zero boilerplate. The best code is the code that ships. ⚡️</i></h5>
 
 </div>
+
+---
+
+<!-- Right-aligned Focus Matrix + Console intro (inspired by milaan9 & sciencepal) -->
+<table align="right">
+  <tr><th colspan="2" align="left">🧭 Core Focus</th></tr>
+  <tr><td>AI Agents &amp; RAG</td><td><code>★★★★★</code></td></tr>
+  <tr><td>TypeScript / React</td><td><code>★★★★★</code></td></tr>
+  <tr><td>Three.js &amp; WebGL</td><td><code>★★★★☆</code></td></tr>
+  <tr><td>Python / FastAPI</td><td><code>★★★★☆</code></td></tr>
+  <tr><td>DSP &amp; Video Gen</td><td><code>★★★★☆</code></td></tr>
+</table>
+
+### `whoami`
+
+Hi, I'm **Ayush Bhatt** (`@baerozgaarmard`) — an independent **creative engineer and full-stack developer** based in Dehradun, India. I build autonomous AI agent pipelines, procedural 3D graphics, and crisp web applications from zero to production.
 
 ```console
 $ whoami
-ayush bhatt · full-stack dev @ brandforge media · dehradun, in
+ayush bhatt · independent creative engineer · dehradun, uttarakhand, in
 
 $ cat now.txt
-→ Animated Shorts Skill: autonomous 3D toon studio with Remotion & Three.js
-→ Tube Trek: agent-native YouTube Shorts studio with zero API keys
-→ AI Bot City Simulator: living isometric town with autonomous agents
-→ the BrandForge Media studio site: real-time 3D with Three.js + GSAP
+→ ultimate-faceless-shorts-pipeline : code-native video studio with local TTS & Whisper
+→ animated-shorts-skill             : 3D toon storytelling via Three.js + Remotion + DSP
+→ tube-trek                         : agent-native YouTube Shorts studio (zero API keys)
+→ ai-bot-city-simulator             : living isometric town driven by autonomous agents
 ```
 
+<br clear="both" />
 
-### what I do
+---
 
-- **Business websites** that load fast and bring enquiries — landing pages, portfolios, local-business sites with SEO built in
-- **Web apps & SaaS** — CRMs, dashboards, e-commerce and internal tools (React · Next.js · NestJS)
-- **Android apps** — Kotlin + Firebase, from prototype to release builds
-- **AI agents & automation** — local-first agents with memory, plus WhatsApp/lead automation for small businesses
+### 🛠 Tech Stack & Tools
 
+<!-- Dual-row centered skillicons grid (inspired by salesp07 & AVS1508) -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,python,kotlin,firebase,threejs,vite,tailwind,html,css,docker,postgres,vercel,git&perline=9" alt="TypeScript, JavaScript, React, Next.js, Node.js, NestJS, Python, Kotlin, Firebase, Three.js, Vite, Tailwind, HTML, CSS, Docker, Postgres, Vercel, Git" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,kotlin,react,nextjs,threejs,vite,tailwind&perline=9" alt="Core languages and frontend stack" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,fastapi,postgres,firebase,docker,vercel,git,linux&perline=9" alt="Backend, data and infrastructure stack" />
 </div>
 
-### shipped
+---
 
+### 📌 Pinned AI & Creative Systems
+
+<!-- 2-column pinned repo cards (inspired by MartinHeinz & zumrudu-anka) -->
+<div align="center">
+  <a href="https://github.com/baerozgaarmard/ultimate-faceless-shorts-pipeline">
+    <img width="48%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=baerozgaarmard&repo=ultimate-faceless-shorts-pipeline&theme=radical&hide_border=true" alt="ultimate-faceless-shorts-pipeline" />
+  </a>
+  <a href="https://github.com/baerozgaarmard/animated-shorts-skill">
+    <img width="48%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=baerozgaarmard&repo=animated-shorts-skill&theme=radical&hide_border=true" alt="animated-shorts-skill" />
+  </a>
+  <br />
+  <a href="https://github.com/baerozgaarmard/tube-trek">
+    <img width="48%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=baerozgaarmard&repo=tube-trek&theme=radical&hide_border=true" alt="tube-trek" />
+  </a>
+  <a href="https://github.com/baerozgaarmard/ai-bot-city-simulator">
+    <img width="48%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=baerozgaarmard&repo=ai-bot-city-simulator&theme=radical&hide_border=true" alt="ai-bot-city-simulator" />
+  </a>
+</div>
+
+---
+
+### 🎨 Featured Builds & Visual Showcase
+
+<!-- Multi-column visual preview grid (inspired by midudev) -->
 <table>
   <tr>
     <td colspan="2" align="center">
-      <a href="https://brandforge-media.vercel.app"><img src="assets/brandforge.jpg" width="100%" alt="BrandForge Media studio site: We forge brands that move" /></a>
+      <a href="https://github.com/baerozgaarmard/animated-shorts-skill"><img src="assets/animated-shorts.jpg" width="100%" alt="Animated Shorts 3D Toon Studio frame" /></a>
       <br />
-      <b><a href="https://brandforge-media.vercel.app">BrandForge Media</a></b> · <a href="https://github.com/baerozgaarmard/brandforge-media">code</a>
+      <b><a href="https://github.com/baerozgaarmard/animated-shorts-skill">Animated Shorts Studio</a></b> · <a href="https://github.com/baerozgaarmard/animated-shorts-skill">source code</a>
       <br />
-      <sub>Our studio site: real-time 3D, scroll-driven motion and 33 search-ready pages · Vite · Three.js · GSAP</sub>
+      <sub>Autonomous 3D toon storytelling pipeline: 2D bean-head actors inside a painted 3D world · Three.js · Remotion · Python DSP Audio</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://invitations-xi.vercel.app"><img src="assets/wedding.jpg" width="100%" alt="Manas and Anchal wedding invitation: a sealed envelope" /></a>
+      <a href="https://invitations-xi.vercel.app"><img src="assets/wedding.jpg" width="100%" alt="Manas and Anchal wedding invitation" /></a>
       <br />
       <b><a href="https://invitations-xi.vercel.app">Manas &amp; Anchal</a></b> · <a href="https://github.com/baerozgaarmard/manas-anchal-wedding-invitation">code</a>
       <br />
-      <sub>Interactive, illustrated wedding invitation, made for phones · React · Framer Motion</sub>
+      <sub>Interactive illustrated invitation crafted for mobile screens · React · Framer Motion</sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://platinum-corp-demo.vercel.app"><img src="assets/platinum.jpg" width="100%" alt="Platinum Crest luxury residences landing page" /></a>
       <br />
       <b><a href="https://platinum-corp-demo.vercel.app">Platinum Crest</a></b> · <a href="https://github.com/baerozgaarmard/platinum-corp-demo">code</a>
       <br />
-      <sub>Luxury real-estate landing page for a Mumbai tower · React · Tailwind · Google Maps</sub>
+      <sub>Luxury real-estate digital experience for a Mumbai skyscraper · React · Tailwind · Maps</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://ai-agent-final-reet.onrender.com"><img src="assets/wellness.jpg" width="100%" alt="Wellness Companion AI sign-in screen" /></a>
+      <a href="https://ai-agent-final-reet.onrender.com"><img src="assets/wellness.jpg" width="100%" alt="Wellness Companion AI screen" /></a>
       <br />
       <b><a href="https://ai-agent-final-reet.onrender.com">Wellness Companion AI</a></b> · <a href="https://github.com/baerozgaarmard/Ai-Agent-Final">code</a>
       <br />
-      <sub>AI coach with memory and safety-first crisis detection · FastAPI · Groq</sub>
+      <sub>AI companion with episodic memory and safety-first crisis detection · FastAPI · Groq</sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://demo-crm-nu.vercel.app"><img src="assets/crm.jpg" width="100%" alt="EstateFlow CRM sign-in screen" /></a>
       <br />
       <b><a href="https://demo-crm-nu.vercel.app">EstateFlow CRM</a></b> · <a href="https://github.com/baerozgaarmard/demo-crm">code</a>
       <br />
-      <sub>Mobile-first real-estate CRM: leads, one-tap calls, follow-ups · React · Zustand</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://salon-demo-website-ten.vercel.app"><img src="assets/salon.jpg" width="100%" alt="Afreen Unisex Salon landing page" /></a>
-      <br />
-      <b><a href="https://salon-demo-website-ten.vercel.app">Afreen Unisex Salon</a></b> · <a href="https://github.com/baerozgaarmard/Salon-Demo-website">code</a>
-      <br />
-      <sub>Fast, accessible landing page for a Dehradun salon · HTML · JSON-LD</sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/baerozgaarmard/animated-shorts-skill"><img src="assets/animated-shorts.jpg" width="100%" alt="Animated Shorts 3D Toon Studio frame" /></a>
-      <br />
-      <b><a href="https://github.com/baerozgaarmard/animated-shorts-skill">Animated Shorts Studio</a></b> · <a href="https://github.com/baerozgaarmard/animated-shorts-skill">code</a>
-      <br />
-      <sub>Autonomous 3D toon storytelling pipeline · Three.js · Remotion · Python DSP</sub>
+      <sub>Mobile-first real-estate lead CRM with one-tap dialer and follow-ups · React · Zustand</sub>
     </td>
   </tr>
 </table>
 
+<!-- Collapsible drawers for extra builds & setup (inspired by iampavangandhi & Spiderpig86) -->
+<details>
+  <summary><b>🗂️ More Experiments &amp; Client Builds</b> <i>(click to expand)</i></summary>
+  <br />
 
-### work with me
+| Project | Focus | Link |
+| :--- | :--- | :--- |
+| **Enterprise RAG Chiller Manuals** | Domain-specific retrieval over technical HVAC manuals | [Repo](https://github.com/baerozgaarmard/enterprise-rag-chiller-manuals) |
+| **Document Intelligence OCR** | Automated OCR &amp; structured extraction pipeline | [Repo](https://github.com/baerozgaarmard/document-intelligence-ocr-pipeline) |
+| **Autonomous LFQ Pricing Agent** | Agentic lead-for-quote pricing automation | [Repo](https://github.com/baerozgaarmard/autonomous-lfq-pricing-agent) |
+| **Stela-Mac-Os** | Translation-based Apple Silicon layer for x86-64 PCs | [Repo](https://github.com/baerozgaarmard/Stela-Mac-Os) |
+| **Afreen Unisex Salon** | Accessible fast local-business landing page | [Repo](https://github.com/baerozgaarmard/Salon-Demo-website) |
 
-I build for clients through **[BrandForge Media](https://brandforge-media.vercel.app)** and I'm currently taking on new projects.
+</details>
 
-- Fixed scope, fixed price, live in days — no endless revisions loop
-- Every build ships with a live demo link before final delivery
-- Best way to reach me: **[WhatsApp](https://wa.me/919311267085)** or through the studio site
+<details>
+  <summary><b>⚙️ Environment &amp; Workflow</b> <i>(click to expand)</i></summary>
+  <br />
+  <ul>
+    <li><b>OS:</b> Windows 11 + WSL2 / Linux</li>
+    <li><b>Stack:</b> TypeScript, React, Next.js, Three.js, Remotion, Python (FastAPI, DSP, Whisper)</li>
+    <li><b>Philosophy:</b> Minimal code, standard primitives first, zero unrequested abstractions</li>
+    <li><b>Current Obsession:</b> Agent-native procedural video &amp; 3D storytelling engines</li>
+  </ul>
+</details>
 
-> A large part of my client work lives in private repositories (client code and NDAs), so the public repos here are a selection. The full portfolio is available on request.
+---
+
+### 📊 Engineering Telemetry & Contribution Snake
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=baerozgaarmard&show_icons=true&theme=radical&hide_border=true" alt="Ayush Bhatt's GitHub stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=baerozgaarmard&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Ayush Bhatt's GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=baerozgaarmard&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br />
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/baerozgaarmard/baerozgaarmard/output/snake-dark.svg" />
-  <img alt="A snake eating my contribution graph" src="https://raw.githubusercontent.com/baerozgaarmard/baerozgaarmard/output/snake.svg" />
-</picture>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=baerozgaarmard&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
+
+<br />
+
+<!-- Activity Graph (inspired by zumrudu-anka) -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=baerozgaarmard&bg_color=141321&color=e5383b&line=fe428e&point=a9fef7&area=true&hide_border=true" width="100%" alt="GitHub Contribution Activity Graph" />
+</div>
+
+<br />
+
+<!-- Dark/light contribution snake (inspired by salesp07) -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/baerozgaarmard/baerozgaarmard/output/snake-dark.svg" />
+    <img alt="A snake eating my contribution graph" src="https://raw.githubusercontent.com/baerozgaarmard/baerozgaarmard/output/snake.svg" />
+  </picture>
+</div>
+
+<br />
+
+<!-- Random Dev Quote (inspired by iampavangandhi) -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</div>
+
+---
+
+### 🤝 Collaborate & Connect
+
+I work directly with founders, product teams, and engineers to ship custom web apps, interactive 3D experiences, and autonomous AI workflows — fast turnarounds, zero middle layers.
 
 <div align="center">
 
-<a href="https://www.instagram.com/baerozgaarmard"><img src="https://img.shields.io/badge/Instagram-baerozgaarmard-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<a href="https://www.linkedin.com/in/brandforge-media"><img src="https://img.shields.io/badge/LinkedIn-BrandForge%20Media-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://x.com/baerozgaarmard"><img src="https://img.shields.io/badge/X-baerozgaarmard-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+<a href="mailto:ayushbhatt207@gmail.com"><img src="https://img.shields.io/badge/Email-ayushbhatt207%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: ayushbhatt207@gmail.com" /></a>
+<a href="https://wa.me/919311267085"><img src="https://img.shields.io/badge/WhatsApp-Chat%20Direct-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp: +91 93112 67085" /></a>
+<a href="https://x.com/baerozgaarmard"><img src="https://img.shields.io/badge/X-baerozgaarmard-000000?style=for-the-badge&logo=x&logoColor=white" alt="X: @baerozgaarmard" /></a>
+<a href="https://www.instagram.com/baerozgaarmard"><img src="https://img.shields.io/badge/Instagram-baerozgaarmard-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram: @baerozgaarmard" /></a>
 <img src="https://img.shields.io/badge/Discord-ayush287904-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: ayush287904" />
 
-**[brandforge-media.vercel.app](https://brandforge-media.vercel.app)** — the studio I build for
+<br /><br />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e5383b,100:3d0000&height=110&section=footer" width="100%" alt="" />
 
