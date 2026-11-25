@@ -48,3 +48,4 @@ Redesign `baerozgaarmard/README.md` by selecting and combining design patterns f
 ## Highlights & Achievements Verified
 - Confirmed **Developer Program Member** badge is live under **Highlights** on `https://github.com/baerozgaarmard`.
 - Confirmed **Quickdraw** and **YOLO** badges are live under **Achievements** (**Pull Shark** requirements met with 4 merged PRs across 3 public repos; awaiting GitHub background batch sync).
+- Added **Highlights & Achievements** section to `README.md` featuring the **GitHub Developer Program Member** badge and official **Quickdraw** & **YOLO** achievement icons.

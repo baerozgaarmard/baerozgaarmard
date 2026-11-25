@@ -207,6 +207,18 @@ $ cat now.txt
 
 ---
 
+### 🏅 Highlights &amp; Achievements
+
+<div align="center">
+  <a href="https://github.com/baerozgaarmard"><img src="https://img.shields.io/badge/GitHub-Developer%20Program%20Member-1f2937?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Developer Program Member" /></a>
+  <br /><br />
+  <a href="https://github.com/baerozgaarmard?achievement=quickdraw&amp;tab=achievements"><img src="https://github.githubassets.com/assets/quickdraw-default--light-8f798b35341a.png" width="64" alt="Achievement: Quickdraw" title="Quickdraw" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/baerozgaarmard?achievement=yolo&amp;tab=achievements"><img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="64" alt="Achievement: YOLO" title="YOLO" /></a>
+</div>
+
+---
+
 ### 🤝 Collaborate & Connect
 
 I work directly with founders, product teams, and engineers to ship custom web apps, interactive 3D experiences, and autonomous AI workflows — fast turnarounds, zero middle layers.
