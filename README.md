@@ -64,9 +64,21 @@ $ cat now.txt
 
 ---
 
-### 📌 Pinned AI & Creative Systems
+### 📌 Pinned Work
 
-<!-- 2-column pinned repo cards (inspired by MartinHeinz & zumrudu-anka) -->
+<!-- Flagship pinned web build (assets/brandforge.jpg) + 2-column repo pins (inspired by MartinHeinz & zumrudu-anka) -->
+<table>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://brandforge-media.vercel.app"><img src="assets/brandforge.jpg" width="100%" alt="BrandForge Media website: We forge brands that move" /></a>
+      <br />
+      <b><a href="https://brandforge-media.vercel.app">BrandForge Media Website</a></b> · <a href="https://github.com/baerozgaarmard/brandforge-media">source code</a>
+      <br />
+      <sub>Interactive 3D web experience built with real-time WebGL, scroll-driven motion, and 33 search-ready static pages · Vite · Three.js · GSAP</sub>
+    </td>
+  </tr>
+</table>
+
 <div align="center">
   <a href="https://github.com/baerozgaarmard/ultimate-faceless-shorts-pipeline">
     <img width="48%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=baerozgaarmard&repo=ultimate-faceless-shorts-pipeline&theme=radical&hide_border=true" alt="ultimate-faceless-shorts-pipeline" />
@@ -85,20 +97,18 @@ $ cat now.txt
 
 ---
 
-### 🎨 Featured Builds & Visual Showcase
+### 🎨 Featured Builds
 
-<!-- Multi-column visual preview grid (inspired by midudev) -->
+<!-- Visual preview grid + AI/systems engineering cards (inspired by midudev) -->
 <table>
   <tr>
-    <td colspan="2" align="center">
+    <td width="50%" valign="top">
       <a href="https://github.com/baerozgaarmard/animated-shorts-skill"><img src="assets/animated-shorts.jpg" width="100%" alt="Animated Shorts 3D Toon Studio frame" /></a>
       <br />
-      <b><a href="https://github.com/baerozgaarmard/animated-shorts-skill">Animated Shorts Studio</a></b> · <a href="https://github.com/baerozgaarmard/animated-shorts-skill">source code</a>
+      <b><a href="https://github.com/baerozgaarmard/animated-shorts-skill">Animated Shorts Studio</a></b> · <a href="https://github.com/baerozgaarmard/animated-shorts-skill">code</a>
       <br />
-      <sub>Autonomous 3D toon storytelling pipeline: 2D bean-head actors inside a painted 3D world · Three.js · Remotion · Python DSP Audio</sub>
+      <sub>Autonomous 3D toon storytelling pipeline: 2D bean-head actors inside a painted 3D world · Three.js · Remotion · Python DSP</sub>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <a href="https://invitations-xi.vercel.app"><img src="assets/wedding.jpg" width="100%" alt="Manas and Anchal wedding invitation" /></a>
       <br />
@@ -106,43 +116,41 @@ $ cat now.txt
       <br />
       <sub>Interactive illustrated invitation crafted for mobile screens · React · Framer Motion</sub>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
-      <a href="https://platinum-corp-demo.vercel.app"><img src="assets/platinum.jpg" width="100%" alt="Platinum Crest luxury residences landing page" /></a>
+      <b><a href="https://github.com/baerozgaarmard/enterprise-rag-chiller-manuals">Enterprise RAG — Chiller Manuals</a></b> · <a href="https://github.com/baerozgaarmard/enterprise-rag-chiller-manuals">code</a>
       <br />
-      <b><a href="https://platinum-corp-demo.vercel.app">Platinum Crest</a></b> · <a href="https://github.com/baerozgaarmard/platinum-corp-demo">code</a>
+      <sub>Grounded technical Q&amp;A over industrial chiller manuals with document, page, and chunk-level citations plus insufficient-evidence refusal · Python · RAG</sub>
+    </td>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/baerozgaarmard/document-intelligence-ocr-pipeline">Document Intelligence OCR</a></b> · <a href="https://github.com/baerozgaarmard/document-intelligence-ocr-pipeline">code</a>
       <br />
-      <sub>Luxury real-estate digital experience for a Mumbai skyscraper · React · Tailwind · Maps</sub>
+      <sub>Hybrid PyMuPDF &amp; OCR pipeline preserving layout, headings, tables, and normalized bounding boxes in versioned JSON · Python · OCR</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://ai-agent-final-reet.onrender.com"><img src="assets/wellness.jpg" width="100%" alt="Wellness Companion AI screen" /></a>
+      <b><a href="https://github.com/baerozgaarmard/autonomous-lfq-pricing-agent">Autonomous LFQ Pricing Agent</a></b> · <a href="https://github.com/baerozgaarmard/autonomous-lfq-pricing-agent">code</a>
       <br />
-      <b><a href="https://ai-agent-final-reet.onrender.com">Wellness Companion AI</a></b> · <a href="https://github.com/baerozgaarmard/Ai-Agent-Final">code</a>
-      <br />
-      <sub>AI companion with episodic memory and safety-first crisis detection · FastAPI · Groq</sub>
+      <sub>Explainable pricing-research agent evaluating catalog cost baselines, competitor signals, and policy constraints with human-in-the-loop approval · Python · Agents</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://demo-crm-nu.vercel.app"><img src="assets/crm.jpg" width="100%" alt="EstateFlow CRM sign-in screen" /></a>
+      <b><a href="https://github.com/baerozgaarmard/Stela-Mac-Os">Stela (Apple Silicon on x86-64)</a></b> · <a href="https://github.com/baerozgaarmard/Stela-Mac-Os">code</a>
       <br />
-      <b><a href="https://demo-crm-nu.vercel.app">EstateFlow CRM</a></b> · <a href="https://github.com/baerozgaarmard/demo-crm">code</a>
-      <br />
-      <sub>Mobile-first real-estate lead CRM with one-tap dialer and follow-ups · React · Zustand</sub>
+      <sub>Experimental UEFI translation layer with an arm64-to-x86-64 translator and NVIDIA GPU Metal driver work · Rust</sub>
     </td>
   </tr>
 </table>
 
-<!-- Collapsible drawers for extra builds & setup (inspired by iampavangandhi & Spiderpig86) -->
+<!-- Collapsible drawers for setup & additional builds (inspired by iampavangandhi & Spiderpig86) -->
 <details>
-  <summary><b>🗂️ More Experiments &amp; Client Builds</b> <i>(click to expand)</i></summary>
+  <summary><b>🗂️ Additional Builds</b> <i>(click to expand)</i></summary>
   <br />
 
 | Project | Focus | Link |
 | :--- | :--- | :--- |
-| **Enterprise RAG Chiller Manuals** | Domain-specific retrieval over technical HVAC manuals | [Repo](https://github.com/baerozgaarmard/enterprise-rag-chiller-manuals) |
-| **Document Intelligence OCR** | Automated OCR &amp; structured extraction pipeline | [Repo](https://github.com/baerozgaarmard/document-intelligence-ocr-pipeline) |
-| **Autonomous LFQ Pricing Agent** | Agentic lead-for-quote pricing automation | [Repo](https://github.com/baerozgaarmard/autonomous-lfq-pricing-agent) |
-| **Stela-Mac-Os** | Translation-based Apple Silicon layer for x86-64 PCs | [Repo](https://github.com/baerozgaarmard/Stela-Mac-Os) |
+| **BrandForge POS** | Offline-first restaurant POS and order management system | [Repo](https://github.com/baerozgaarmard/brandforge-pos) |
 | **Afreen Unisex Salon** | Accessible fast local-business landing page | [Repo](https://github.com/baerozgaarmard/Salon-Demo-website) |
 
 </details>

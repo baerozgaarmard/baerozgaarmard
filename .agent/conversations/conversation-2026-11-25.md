@@ -22,3 +22,8 @@ Redesign `baerozgaarmard/README.md` by selecting and combining design patterns f
 
 ## Next Steps
 - Completed: validated all URLs, committed, and pushed to `main`.
+
+## Follow-Up Update
+- Restored `assets/brandforge.jpg` from commit `8dd70f1` and promoted **BrandForge Media Website** (`https://brandforge-media.vercel.app`) as the hero **Pinned Work** build while preserving Ayush Bhatt's individual identity across header, bio, and contact badges.
+- Replaced **Platinum Crest**, **Wellness Companion AI**, and **EstateFlow CRM** in Featured Builds with **Enterprise RAG — Chiller Manuals**, **Document Intelligence OCR**, **Autonomous LFQ Pricing Agent**, and **Stela (Apple Silicon on x86-64)** alongside **Animated Shorts Studio** and **Manas & Anchal**.
+- Deleted unused `assets/platinum.jpg`, `assets/wellness.jpg`, and `assets/crm.jpg`.
