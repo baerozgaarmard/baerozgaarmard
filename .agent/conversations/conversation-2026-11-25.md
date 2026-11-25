@@ -34,3 +34,13 @@ Redesign `baerozgaarmard/README.md` by selecting and combining design patterns f
 - Removed `https://www.linkedin.com/in/brandforge-media` via `DELETE /user/social_accounts`, keeping Instagram (`baerozgaarmard`) and X (`@baerozgaarmard`).
 - Set GitHub user status via GraphQL `changeUserStatus`: emoji `:zap:`, message `"Building AI agents & 3D web experiences"`. Waiting on user for their personal LinkedIn URL (only `in/brandforge-media` existed previously).
 - Added personal LinkedIn `https://www.linkedin.com/in/ayushbhatt207` to GitHub profile sidebar (`POST /user/social_accounts`) and `README.md` contact badges.
+
+## Pull Shark & Quickdraw Workflows Across 2 Public Repos
+- **`baerozgaarmard/enterprise-rag-chiller-manuals`**:
+  - Set GitHub repository description from `pyproject.toml`.
+  - Shipped and merged PR `#1` (`docs/add-mit-license` -> `main`) adding the root MIT `LICENSE` file declared in `pyproject.toml`.
+- **`baerozgaarmard/document-intelligence-ocr-pipeline`**:
+  - Set GitHub repository description from `pyproject.toml`.
+  - Shipped and merged PR `#1` (`docs/add-mit-license` -> `main`) adding the root MIT `LICENSE` file.
+  - Opened issue `#2` (`2026-11-25T08:39:35Z`) and resolved/closed it via PR `#3` (`2026-11-25T08:40:10Z` — 35 seconds) linking `[MIT License](LICENSE)` in `README.md`.
+- Note: GitHub achievement badges process asynchronously on GitHub's backend (immediately post-merge the profile page still listed `YOLO` only).
