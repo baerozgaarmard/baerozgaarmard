@@ -49,3 +49,7 @@ Redesign `baerozgaarmard/README.md` by selecting and combining design patterns f
 - Confirmed **Developer Program Member** badge is live under **Highlights** on `https://github.com/baerozgaarmard`.
 - Confirmed **Quickdraw** and **YOLO** badges are live under **Achievements** (**Pull Shark** requirements met with 4 merged PRs across 3 public repos; awaiting GitHub background batch sync).
 - Added **Highlights & Achievements** section to `README.md` featuring the **GitHub Developer Program Member** badge and official **Quickdraw** & **YOLO** achievement icons.
+
+## Launch Polish on `ultimate-faceless-shorts-pipeline` (PR #1)
+- Audited `baerozgaarmard/ultimate-faceless-shorts-pipeline`: found broken `LICENSE` link (`licenseInfo: null`), empty badge hrefs, and style previews buried below line 100.
+- Shipped PR `#1` (`docs/launch-polish-and-license` -> `main`): added root MIT `LICENSE`, fixed badge markup and `Δt = 1/60 s`, and added an above-the-fold 3-style visual preview + 1-command Windows/Unix Quickstart at the top of `README.md`.
