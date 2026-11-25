@@ -33,3 +33,4 @@ Redesign `baerozgaarmard/README.md` by selecting and combining design patterns f
 - Cleared `company` (`null`) and `blog` (`""`) to remove `BrandForge Media` and `https://brandforge-media.vercel.app/` from the profile sidebar.
 - Removed `https://www.linkedin.com/in/brandforge-media` via `DELETE /user/social_accounts`, keeping Instagram (`baerozgaarmard`) and X (`@baerozgaarmard`).
 - Set GitHub user status via GraphQL `changeUserStatus`: emoji `:zap:`, message `"Building AI agents & 3D web experiences"`. Waiting on user for their personal LinkedIn URL (only `in/brandforge-media` existed previously).
+- Added personal LinkedIn `https://www.linkedin.com/in/ayushbhatt207` to GitHub profile sidebar (`POST /user/social_accounts`) and `README.md` contact badges.

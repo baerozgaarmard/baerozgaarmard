@@ -213,6 +213,7 @@ I work directly with founders, product teams, and engineers to ship custom web a
 
 <div align="center">
 
+<a href="https://www.linkedin.com/in/ayushbhatt207"><img src="https://img.shields.io/badge/LinkedIn-Ayush%20Bhatt-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: Ayush Bhatt" /></a>
 <a href="mailto:ayushbhatt207@gmail.com"><img src="https://img.shields.io/badge/Email-ayushbhatt207%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: ayushbhatt207@gmail.com" /></a>
 <a href="https://wa.me/919311267085"><img src="https://img.shields.io/badge/WhatsApp-Chat%20Direct-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp: +91 93112 67085" /></a>
 <a href="https://x.com/baerozgaarmard"><img src="https://img.shields.io/badge/X-baerozgaarmard-000000?style=for-the-badge&logo=x&logoColor=white" alt="X: @baerozgaarmard" /></a>
