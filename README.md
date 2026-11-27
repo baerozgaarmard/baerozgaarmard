@@ -133,9 +133,9 @@ autonomous ai agents · deterministic 3d/2d video engines · webgl & full-stack 
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <b><a href="https://github.com/baerozgaarmard/btc-triage">btc-triage (satcheck) — Bitcoin Transaction &amp; Address Triage CLI</a></b> · <a href="https://github.com/baerozgaarmard/btc-triage">code</a>
+      <b><a href="https://btc-triage.vercel.app">btc-triage (satcheck) — Bitcoin Transaction &amp; Address Triage</a></b> · <a href="https://btc-triage.vercel.app">live demo</a> · <a href="https://github.com/baerozgaarmard/btc-triage">code</a>
       <br />
-      <sub>Zero-dependency Python Bitcoin CLI: offline Base58Check, Bech32 (BIP-173) &amp; Bech32m (BIP-350) Taproot validation, raw SegWit/Legacy hex decoder, and live Esplora stuck-tx diagnosis (BIP-125 RBF &amp; CPFP) · Python · Bitcoin</sub>
+      <sub>Zero-dependency Python Bitcoin CLI &amp; Vercel web inspector: offline Base58Check, Bech32 (BIP-173) &amp; Bech32m (BIP-350) Taproot validation, raw SegWit/Legacy hex decoder, and live Esplora stuck-tx diagnosis (BIP-125 RBF &amp; CPFP) · Python · Bitcoin</sub>
     </td>
   </tr>
 </table>
