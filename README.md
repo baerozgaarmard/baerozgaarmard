@@ -131,6 +131,13 @@ autonomous ai agents · deterministic 3d/2d video engines · webgl & full-stack 
       <sub>Explainable pricing-research agent evaluating catalog cost baselines, competitor signals, and policy constraints with human-in-the-loop approval · Python · Agents</sub>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <b><a href="https://github.com/baerozgaarmard/btc-triage">btc-triage (satcheck) — Bitcoin Transaction &amp; Address Triage CLI</a></b> · <a href="https://github.com/baerozgaarmard/btc-triage">code</a>
+      <br />
+      <sub>Zero-dependency Python Bitcoin CLI: offline Base58Check, Bech32 (BIP-173) &amp; Bech32m (BIP-350) Taproot validation, raw SegWit/Legacy hex decoder, and live Esplora stuck-tx diagnosis (BIP-125 RBF &amp; CPFP) · Python · Bitcoin</sub>
+    </td>
+  </tr>
 </table>
 
 <!-- Collapsible drawers for setup & additional builds (inspired by iampavangandhi & Spiderpig86) -->
